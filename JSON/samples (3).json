@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dreamy Guitar",
+    "file": "samples/RyanPittman_DreamyGuitar",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Lighter",
+    "file": "samples/RyanPittman_Lighter.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Train",
+    "file": "samples/RyanPittman_Train.wav",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
