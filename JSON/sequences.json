@@ -1,1 +1,15 @@
-
+[
+  {
+    "name": "Sequence 1",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
